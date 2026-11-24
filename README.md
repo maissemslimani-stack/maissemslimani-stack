@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,30&height=180&section=header&text=Maysam%20Slimani&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Creating%20little%20things%20with%20big%20dreams%20%E2%9C%A8&descAlignY=60&descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,30&height=180&section=header&text=Mayssam%20Slimani&fontSize=42&fontColor=ffffff&fontAlignY=38&%20%E2%9C%A8&descAlignY=60&descSize=15" width="100%" />
 
 <br>
 
@@ -28,15 +28,8 @@
 
 ```yaml
 name: Mayssam Slimani
-nickname: Mayssam 🌸
 role: [Student / Developer ]
 location: Tunisia 🇹🇳
-
-personality:
-  - Creative
-  - Curious
-  - Dreamer
-  - Always learning
 
 currently:
   - Learning new things
@@ -84,9 +77,6 @@ currently:
 <div align="center">
 
 ### You are growing, even on the days you cannot see it. 🌱
-
-
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="160" />
 
 
 </div>
