@@ -48,7 +48,7 @@ currently:
 
 </div>
 
-## 🌸 Things I'm working on
+## 🌸 Projects I'm working on
 
 | Project | Description |
 |---|---|
@@ -56,19 +56,6 @@ currently:
 | [Project Two](#) | Learning something new |
 | [Project Three](#) | Turning an idea into reality |
 
-## My GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=FFF5FA&title_color=D98CB3&icon_color=E6A4C7&text_color=98738A&border_radius=15" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=FFF5FA&title_color=D98CB3&text_color=98738A&border_radius=15" width="42%" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=FFF5FA&ring=D98CB3&fire=F2A6C2&currStreakLabel=D98CB3&sideLabels=98738A&dates=B99BAF&currStreakNum=98738A&sideNums=98738A" width="70%" />
-
-</div>
 
 ---
 
