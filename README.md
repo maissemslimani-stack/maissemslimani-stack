@@ -4,7 +4,7 @@
 
 <br>
 
-### 🌷 Welcome to my little corner of GitHub 🌷
+### 🌷 Welcome to my GitHub 🌷
 
 *ੈ✩‧₊˚ A little bit of creativity, a little bit of code, and a whole lot of dreams.*
 
@@ -24,12 +24,12 @@
 
 ---
 
-## 🎀 A little about me
+## about me
 
 ```yaml
-name: Maysam Slimani
-nickname: Maysam 🌸
-role: [Student / Developer / Your choice]
+name: Mayssam Slimani
+nickname: Mayssam 🌸
+role: [Student / Developer ]
 location: Tunisia 🇹🇳
 
 personality:
@@ -41,14 +41,11 @@ personality:
 currently:
   - Learning new things
   - Building projects
-  - Chasing little and big dreams
 
-motto: "Bloom at your own pace 🌷"
 ```
 
-## 🧁 My little toolbox
+## My toolbox
 
-*Things I use to turn ideas into reality.*
 
 <div align="center">
 
@@ -60,13 +57,13 @@ motto: "Bloom at your own pace 🌷"
 
 ## 🌸 Things I'm working on
 
-| 🌷 Project | 💌 Description |
+| Project | Description |
 |---|---|
 | [Project One](#) | A little project made with love |
 | [Project Two](#) | Learning something new |
 | [Project Three](#) | Turning an idea into reality |
 
-## 💗 My GitHub garden
+## My GitHub
 
 <div align="center">
 
@@ -88,11 +85,9 @@ motto: "Bloom at your own pace 🌷"
 
 ### You are growing, even on the days you cannot see it. 🌱
 
-*Take your time. Chase your dreams. Be proud of every little step.*
 
 <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="160" />
 
-**Made with ♡, curiosity, and a little bit of magic.**
 
 </div>
 
@@ -100,7 +95,7 @@ motto: "Bloom at your own pace 🌷"
 
 <div align="center">
 
-🌷 *Thanks for visiting my little world!* 🌷
+🌷 *Thanks for your visit* 🌷
 
 <a href="https://github.com/YOUR_USERNAME">
   <img src="https://img.shields.io/badge/Find%20me%20on-GitHub-D98CB3?style=for-the-badge&logo=github&logoColor=white" />
